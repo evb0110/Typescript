@@ -1,6 +1,6 @@
 import { Animal } from './Animal';
 
-const animal = new Animal('Bobik');
+const animal = new Animal('Kote');
 animal.sayName();
 
 console.log('hi')
