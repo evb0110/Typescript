@@ -5,7 +5,7 @@ var Animal = /** @class */ (function () {
         this.name = name;
     }
     Animal.prototype.sayName = function () {
-        console.log(this.name);
+        console.log("Name: " + this.name);
     };
     return Animal;
 }());
