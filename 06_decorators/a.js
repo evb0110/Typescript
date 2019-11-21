@@ -38,4 +38,4 @@ var Calculator = /** @class */ (function () {
 }());
 var calculator = new Calculator();
 calculator.square(2);
-calculator.square(4);
+calculator.square(4));
